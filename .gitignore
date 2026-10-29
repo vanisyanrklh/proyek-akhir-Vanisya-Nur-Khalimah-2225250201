@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Output hasil program
+output/*.txt
+output/*.csv
+output/*.json
+
+# File log
+*.log
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
